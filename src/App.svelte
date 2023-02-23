@@ -21,15 +21,12 @@ ava2 = !ava2;
 
 {#if ava1}
   <div class="eyes" >
-    <img src="src\assets\eye.png" class="eye" style="top: 109px; left: 36px" transition:slide={{duration:500}}>
-    <img src="src\assets\eye.png" class="eye" style= "top:109px; right:31px" transition:slide={{duration:500}}>
+    <img src="src\assets\eye.png" class="eye" style="top: 101px; left: 36px" transition:slide={{duration:500}}>
+    <img src="src\assets\eye.png" class="eye" style= "top:101px; right:31px" transition:slide={{duration:500}}>
   </div>
 {/if}
 
 
-<div class="item1">
-
-</div>
 
 
 </main>
